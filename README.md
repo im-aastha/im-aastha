@@ -1,5 +1,4 @@
 - 👋 Hi, @im-aastha
-- 👀 I’m interested in sketching and everything with colours
 - 🌱 I’m currently learning python, javascript, CSS
 
 <!---
